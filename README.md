@@ -8,26 +8,6 @@
   <img alt="Karthik Raj GitHub Profile" src="light.svg">
 </picture>
 
-## ✏️ Edit your profile
-
-The visible profile text is directly editable in `dark.svg` and `light.svg`. Search for these labels and replace their values:
-
-- `Subject` — your name
-- `Role` — your role
-- `Origin` — your location
-- `Status` — your current status
-- `ToolChain` — your tools
-- `Neural.Core` — programming languages
-- `Neural.Security` — networking/security skills
-- `Neural.Frontend` — frontend skills
-- `Neural.Backend` — backend skills
-- `Neural.Stack` — MERN, Three.js, Framer Motion, Vercel
-- `Grid.Mail` — karthikraj9000@gmail.com
-- `Grid.Portfolio` — Portfolio (URL not listed on the resume)
-- `Grid.LinkedIn` — karthik
-- `Grid.Github` — GitHub username
-- `GitHub Stats` — keep editable; the resume does not provide GitHub counts
-
 ## Resume-grounded profile details
 
 - MSc Computer Science (2024–2026), Mahatma Gandhi Memorial College — CGPA 6.11
