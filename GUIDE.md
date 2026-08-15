@@ -4,7 +4,7 @@
 ## Step 1 — Clone the Repository
 
 ```powershell
-git clone https://github.com/KARTHIK1749/KARTHIK1749.git
+git clone https://github.com/karthikraj02/karthikraj02.git
 ```
 
 ---

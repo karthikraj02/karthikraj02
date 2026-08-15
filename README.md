@@ -1,12 +1,12 @@
-# KARTHIK1749 — GitHub Profile README
+# karthikraj02 — GitHub Profile README
 
 This profile reproduces the cyber-terminal README design from the reference screenshot using an **editable SVG**, not a flattened screenshot.
 
 ## Preview
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KARTHIK1749/KARTHIK1749/main/dark.svg">
-  <img alt="Karthik Raj GitHub Profile" src="https://raw.githubusercontent.com/KARTHIK1749/KARTHIK1749/main/light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <img alt="Karthik Raj GitHub Profile" src="light.svg">
 </picture>
 
 ## ✏️ Edit your profile
