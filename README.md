@@ -1,6 +1,5 @@
 # karthikraj02 — GitHub Profile README
 
-This profile reproduces the cyber-terminal README design from the reference screenshot using an **editable SVG**, not a flattened screenshot.
 
 ## Preview
 
